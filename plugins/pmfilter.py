@@ -1774,15 +1774,16 @@ async def cb_handler(client: Client, query: CallbackQuery):
   
     elif query.data == "channels":
         buttons = [[
-            InlineKeyboardButton('⚜️ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ ⚜️', url='https://t.me/beautyofthemoviesx')
+            InlineKeyboardButton('⚜️ 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 ⚜️', url='https://t.me/twg_arena')
         ],[
-            InlineKeyboardButton('🔥𝐀𝐒.𝐄𝐃𝐈𝐓𝐈𝐎𝐍🔥', url='https://t.me/+MP3U7lQPFDRlOWQ1'),
-            InlineKeyboardButton('✨️𝐋𝐘𝐑𝐈𝐂𝐒 𝐎𝐅 𝐊𝐃𝐑𝐀𝐌𝐀 𝐂𝐃𝐑𝐀𝐌𝐀✨️', url='https://t.me/kdramacdramainhindi0')
+            InlineKeyboardButton('🔥 𝐑𝐄𝐐𝐔𝐄𝐒𝐓 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 🔥', url='https://t.me/+ywovRerKALI1YTI1'),
         ],[
-            InlineKeyboardButton('🎬 𝐌𝐨𝐯𝐢𝐞𝐬 𝐙𝐨𝐧𝐞 🎬', url='https://t.me/beautyofthemoviesdiscussion')
+            InlineKeyboardButton('✨️ 𝐀𝐋𝐋 𝐈𝐍 𝐎𝐍𝐄 𝐆𝐑𝐎𝐔𝐏 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 ✨️', url='https://t.me/+UeWt9pNYC9M5YjBl')
+        ],[
+            InlineKeyboardButton('🎬 𝐊𝐃𝐑𝐀𝐌𝐀 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 🎬', url='https://t.me/+m4xUsoClpE5mYWQ1')
         ],[
             InlineKeyboardButton('⇇ ʙᴀᴄᴋ', callback_data='start'),
-            InlineKeyboardButton('ꜱᴜᴘᴘᴏʀᴛ 👮', url='https://t.me/Beautyofsupportbot')
+            InlineKeyboardButton('ꜱᴜᴘᴘᴏʀᴛ 👮', url='https://t.me/twg_query_bot')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
