@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://telegra.ph/file/dc89dd1396611ef1d288d.jpg]" alt="TWG ARENA LOGO">
+  <img src="[https://telegra.ph/file/5c0f120f02eb4c22031ad.jpg]" alt="TWG ARENA LOGO">
 </p>
 <h1 align="center">
   <a href="https://telegram.me/rashi_di_bot">Rashi Di</a>
