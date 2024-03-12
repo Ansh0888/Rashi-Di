@@ -2,7 +2,7 @@
   <img src="[https://telegra.ph/file/dc89dd1396611ef1d288d.jpg]" alt="TWG ARENA LOGO">
 </p>
 <h1 align="center">
-  <a href="https://telegram.me/Moviesproviderx1bot">THE MOVIE PROVIDER BOT</a>
+  <a href="https://telegram.me/rashi_di_bot">Rashi Di</a>
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+THE-MOVIE-PROVIDER-BOT;A+SIMPLE+AND+POWERFUL+BOT!;A+BOT+WITH+CUSTOM+URL+SHORTNER;AND+CUSTOM+TUTORIAL!;ALSO+HAVE+STREAM+ONLINE;AND+FAST+DOWNLOAD+FEATURE!;AND+MANY+MORE+FEATURES!)
