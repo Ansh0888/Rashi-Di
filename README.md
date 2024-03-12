@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://graph.org/file/dc89dd1396611ef1d288d.jpg]" alt="TWG ARENA LOGO">
+  <img src="[https://telegra.ph/file/dc89dd1396611ef1d288d.jpg]" alt="TWG ARENA LOGO">
 </p>
 <h1 align="center">
   <a href="https://telegram.me/Moviesproviderx1bot">THE MOVIE PROVIDER BOT</a>
