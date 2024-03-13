@@ -1633,7 +1633,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('• ꜰʀᴇᴇ ᴛʀɪᴀʟ •', callback_data='free')
         ],[
-            InlineKeyboardButton('• ʙʀᴏɴᴢᴇ •', callback_data='broze'),
+            InlineKeyboardButton('• ʙʀᴏɴᴢᴇ •', callback_data='bronze'),
             InlineKeyboardButton('• ꜱɪʟᴠᴇʀ •', callback_data='silver')
         ],[
             InlineKeyboardButton('• ɢᴏʟᴅ •', callback_data='gold'),
@@ -1689,7 +1689,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('🔐 ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ʙᴜʏ ᴘʀᴇᴍɪᴜᴍ', callback_data='purchase')
         ],[
-            InlineKeyboardButton('⋞ ʙᴀᴄᴋ', callback_data='broze'),
+            InlineKeyboardButton('⋞ ʙᴀᴄᴋ', callback_data='bronze'),
             InlineKeyboardButton('3 / 7', callback_data='pagesn1'),
             InlineKeyboardButton('ɴᴇxᴛ ⋟', callback_data='gold')
         ],[
@@ -2065,7 +2065,7 @@ async def auto_filter(client, msg, spoll=False):
         if len(message.text) < 100:
             search = message.text
             m=await message.reply_sticker("CAACAgQAAxkBAAEKSxplArIUActk4ORQuFn3DHFvBqQCOgACBQMAAnJxFyVYcSIunXgGjjAE",
-            reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(f'Seaching for {search} 🔎', url=f"https://t.me/beautyofthemoviesx")]]) 
+            reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(f'Seaching for {search} 🔎', url=f"https://t.me/twg_arena")]]) 
             )
             search = search.lower()
             find = search.split(" ")
