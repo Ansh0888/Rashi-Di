@@ -60,7 +60,7 @@ HOWTOVERIFY = environ.get('HOWTOVERIFY', 'https://t.me/twg_arena/4') # How to op
 
 # Others
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'bindaaslinks.com')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'f0407e59364af78f5210a8dab52e859ee0a93e10')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'c6cc96872bd0af44baad65b65d0950376d3c9c81')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "5")
